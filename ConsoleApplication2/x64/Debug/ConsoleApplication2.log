@@ -1,0 +1,16 @@
+﻿  ConsoleApplication2.cpp
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(59,35): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,110): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,88): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,151): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,140): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(70,129): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\algo\ConsoleApplication2\ConsoleApplication2.cpp(27): warning C4715: maxi: значение возвращается не при всех путях выполнения
+  ConsoleApplication2.vcxproj -> D:\algo\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
